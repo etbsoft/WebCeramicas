@@ -1,2 +1,2 @@
 # WebCeramicas
-Test
+Primeras pruebas para hacer funcionar la nueva web
